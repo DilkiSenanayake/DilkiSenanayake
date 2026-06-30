@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/banner1.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Namaste+%F0%9F%99%8F+I'm+Dilki;Building+clean,+fast+web+experiences;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.demolab.com/demo/?font=Poppins&size=30&color=F79314&lines=%3E+initializing+dilki.dev...;%3E+status%3A+building_cool_stuff+%3D+true;%3E+compiling+dreams+into+code...;%3E+%5BOK%5D+creativity+loaded">
 
 </div>
 
