@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/banner6.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/a1.jpg" width="100%"/>
 
 <br/><br/>
 
