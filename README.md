@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f75c7e&height=200&section=header&text=Dilki%20Senanayake&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20she%2Fher&descAlignY=58&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Namaste+%F0%9F%99%8F+I'm+Dilki;Building+clean,+fast+web+experiences;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 
