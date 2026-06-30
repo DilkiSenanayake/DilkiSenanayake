@@ -111,6 +111,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/a3.jpg" width="100%"/>
 
 </div>
