@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/banner1.png" width="100%"/>
 
-
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F77C2D&width=435&separator=%3C&lines=Hi%2C+I'm+Dilki+%F0%9F%91%8B%3Cconsole.log(%22Hello+World!%22);%3CTurning+coffee+into+code+%E2%98%95%3C404%3A+Sleep+not+found+%F0%9F%98%B4%3CDilki.exe+is+running...%3CMostly+harmless.+Occasionally+clever.)](https://git.io/typing-svg)
 
