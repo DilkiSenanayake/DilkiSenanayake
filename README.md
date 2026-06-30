@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DilkiSenanayake/DilkiSenanayake/main/banner1.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/demo/?font=Poppins&size=30&color=F79314&lines=%3E+initializing+dilki.dev...;%3E+status%3A+building_cool_stuff+%3D+true;%3E+compiling+dreams+into+code...;%3E+%5BOK%5D+creativity+loaded">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F79314&width=435&lines=%3E+initializing+dilki.dev...;%3E+status%3A+building_cool_stuff+%3D+true;%3E+compiling+dreams+into+code...;%3E+%5BOK%5D+creativity+loaded)](https://git.io/typing-svg)
 
 </div>
 
